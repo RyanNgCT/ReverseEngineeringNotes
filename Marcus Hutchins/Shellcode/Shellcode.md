@@ -2,7 +2,7 @@
 
 ## Shellcode 1
 
-Decryption Script in Python
+Decryption Script in Python (Py 3)
 
 ```python
 # 8 bits per byte since dealing with chars
